@@ -1,7 +1,7 @@
 <h1 align="center">Habit Tracker</h1>
 
 <p align="center">
-A base do projeto foi realizada no NLW Setup, que é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino das mais amplas tecnologias de desenvolvimento web e mobile. A premissa do projeto é que sejam implementando novos sistemas e funcionalidades gradualmente, tornando-se uma app bastante completa e usada.<br/>
+A base do projeto foi realizada no NLW Setup, que é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino das mais amplas tecnologias de desenvolvimento web e mobile. A premissa do projeto é que sejam implementando novos sistemas e funcionalidades gradualmente, tornando-se uma app bastante completa e utilizada ao redor do mundo.<br/>
 </p>
 
 <p align="center">
